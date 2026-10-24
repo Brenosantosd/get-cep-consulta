@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/get-cep-consulta/static/css/main.b1bceb4b.css",
+    "main.js": "/get-cep-consulta/static/js/main.f8dbb380.js",
+    "index.html": "/get-cep-consulta/index.html",
+    "main.b1bceb4b.css.map": "/get-cep-consulta/static/css/main.b1bceb4b.css.map",
+    "main.f8dbb380.js.map": "/get-cep-consulta/static/js/main.f8dbb380.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1bceb4b.css",
+    "static/js/main.f8dbb380.js"
+  ]
+}
